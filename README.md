@@ -35,6 +35,8 @@ The project uses publicly available data from Statistik Austria covering Austria
 
 ## Dashboard
 
+![Dashboard](screenshots/Dashboard.PNG)
+
 The interactive Power BI dashboard presents:
 
 - the development of electric and hybrid vehicles in Vienna;
